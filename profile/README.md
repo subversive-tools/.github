@@ -13,7 +13,8 @@ We build open-source Redmine plugins for teams that value autonomy, transparency
 | Plugin | Description | Status |
 |--------|-------------|--------|
 | [redmine_subskills](https://github.com/subversive-tools/redmine_subskills) | Skill management & role matrix | ✅ Stable |
-| [redmine_submenus](https://github.com/subversive-tools/redmine_submenus) | Dropdown navigation & portfolio kanban | ✅ Stable |
+| [redmine_submenus](https://github.com/subversive-tools/redmine_submenus) | Dropdown navigation & wiki macros | ✅ Stable |
+| [redmine_subfolio](https://github.com/subversive-tools/redmine_subfolio) | Portfolio kanban & project status | ⚠️ Beta |
 | [redmine_subnavigation](https://github.com/subversive-tools/redmine_subnavigation) | Collapsible sidebar navigation | ✅ Stable |
 | [redmine_subsimplify](https://github.com/subversive-tools/redmine_subsimplify) | Simplified UI for specific roles | ✅ Stable |
 | [redmine_subwikifiles](https://github.com/subversive-tools/redmine_subwikifiles) | Bidirectional wiki-to-markdown sync | ⚠️ Beta |
