@@ -12,7 +12,7 @@ We build open-source Redmine plugins for teams that value autonomy, transparency
 
 | Plugin | Description | Status |
 |--------|-------------|--------|
-| [redmine_subtriggers](https://github.com/subversive-tools/redmine_subtriggers) | Trigger-based inline object references & macros | ✅ Stable |
+| [redmine_subtrigger](https://github.com/subversive-tools/redmine_subtrigger) | Trigger-based inline object references & macros | ✅ Stable |
 | [redmine_subskills](https://github.com/subversive-tools/redmine_subskills) | Skill management & role matrix | ✅ Stable |
 | [redmine_submenus](https://github.com/subversive-tools/redmine_submenus) | Dropdown navigation & wiki macros | ✅ Stable |
 | [redmine_subfolio](https://github.com/subversive-tools/redmine_subfolio) | Portfolio kanban & project status | ⚠️ Beta |
